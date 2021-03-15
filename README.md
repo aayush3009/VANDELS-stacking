@@ -15,3 +15,6 @@ Python packages required for essential functions:
 - matplotlib (for plotting)
 
 Additionally, to make life easier it is also useful to place the mpvandels.py file in the same folder as this notebook. This custom python package helps read in the spectra and easily convert them to rest-frame
+
+Changelog
+01/03/2019: The methods to calculate errors on stacked spectra have been updated, which have been tested with errors obtained from several different methods
