@@ -5,7 +5,8 @@ The following steps are carried out to perform the stacking:
 - Convert the spectra to rest frame using the redshift value given in the header file
 - Create a rest-frame wavelength grid assuming a median wavelength on to which individual spectra would be resampled
 - Perform a weighted average of the spectra, where the weights are based on the errors on the individual spectra
-- Propagate the errors and save the stacked spectrum along with the errors!
+- Propagate the errors using the prescription described in Guaita+2017
+- Save the stacked spectrum along with the errors!
 
 
 Python packages required for essential functions:
