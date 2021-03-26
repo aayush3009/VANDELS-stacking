@@ -1,4 +1,4 @@
-## This is a script to stack VANDELS spectra
+## This is a script to stack VANDELS (or any other) spectra
 
 The following steps are carried out to perform the stacking:
 - Point to a folder containing fits files and read in the spectra
